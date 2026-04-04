@@ -1,4 +1,4 @@
-# 🌳 Gini Impurity — Decision Tree Fundamentals
+# Gini Impurity — Decision Tree Fundamentals
 
 A hands-on Python notebook implementing **Gini Impurity** from scratch — covering the math, best-split search, tree visualization, and a comparison with Entropy, applied to synthetic data and the classic Iris dataset.
 
@@ -175,9 +175,3 @@ depth= 6  train=1.000  test=1.000
 
 ---
 ---
-
-## ▶️ Run
-```bash
-pip install numpy pandas matplotlib scikit-learn
-jupyter notebook Gini.ipynb
-```
